@@ -36,7 +36,7 @@ namespace zad1
 
             // CLOSE TO AVG
             Console.WriteLine("CLOSE TO AVERAGE");
-            //CloseAvg(numbers);
+            CloseAvg(numbers, average);
             Console.WriteLine("------------------------");
 
             //PRINT ALL ELEMENTS
@@ -54,7 +54,18 @@ namespace zad1
         }
         private static void CloseAvg(int[] numbers, float average)
         {
-           
+            int closest = numbers[0];
+            int index = 0;
+
+            for (int i = 1; i < numbers.Length; i++)
+            {
+                if (Math.Abs(numbers[i] - average) < Math.Abs(closest - average))
+                {
+                    closest = numbers[i];
+                    index = i;
+                }
+            }
+            Console.WriteLine(closest);
         }
         private static void Zero(int[] numbers)
         {
