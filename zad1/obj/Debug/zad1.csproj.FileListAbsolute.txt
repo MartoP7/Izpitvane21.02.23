@@ -1,0 +1,8 @@
+C:\9D - Martin Papazov\III. PROGRAMIRANE\izpitvane21.02.23\zad1\bin\Debug\zad1.exe.config
+C:\9D - Martin Papazov\III. PROGRAMIRANE\izpitvane21.02.23\zad1\bin\Debug\zad1.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\izpitvane21.02.23\zad1\bin\Debug\zad1.pdb
+C:\9D - Martin Papazov\III. PROGRAMIRANE\izpitvane21.02.23\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\izpitvane21.02.23\zad1\obj\Debug\zad1.csproj.SuggestedBindingRedirects.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\izpitvane21.02.23\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\izpitvane21.02.23\zad1\obj\Debug\zad1.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\izpitvane21.02.23\zad1\obj\Debug\zad1.pdb
